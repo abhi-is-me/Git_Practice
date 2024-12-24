@@ -1,12 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\abhis\\OneDrive\\Documents\\DotNet\\Practice\\WebApi_practice\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\abhis\\OneDrive\\Documents\\DotNet\\Practice\\GIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45B09AED-B373-475B-9E5D-CBBD9947D206}|WebApi_practice\\WebApi_practice.csproj|c:\\users\\abhis\\onedrive\\documents\\dotnet\\practice\\git\\webapi_practice\\controllers\\secondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B09AED-B373-475B-9E5D-CBBD9947D206}|WebApi_practice\\WebApi_practice.csproj|solutionrelative:webapi_practice\\controllers\\secondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B09AED-B373-475B-9E5D-CBBD9947D206}|WebApi_practice\\WebApi_practice.csproj|c:\\users\\abhis\\onedrive\\documents\\dotnet\\practice\\git\\webapi_practice\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B09AED-B373-475B-9E5D-CBBD9947D206}|WebApi_practice\\WebApi_practice.csproj|solutionrelative:webapi_practice\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B09AED-B373-475B-9E5D-CBBD9947D206}|WebApi_practice\\WebApi_practice.csproj|c:\\users\\abhis\\onedrive\\documents\\dotnet\\practice\\git\\webapi_practice\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B09AED-B373-475B-9E5D-CBBD9947D206}|WebApi_practice\\WebApi_practice.csproj|solutionrelative:webapi_practice\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B09AED-B373-475B-9E5D-CBBD9947D206}|WebApi_practice\\WebApi_practice.csproj|c:\\users\\abhis\\onedrive\\documents\\dotnet\\practice\\git\\webapi_practice\\controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B09AED-B373-475B-9E5D-CBBD9947D206}|WebApi_practice\\WebApi_practice.csproj|solutionrelative:webapi_practice\\controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhis\\OneDrive\\Documents\\DotNet\\Practice\\GIT\\.vs\\GIT\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\GIT\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecondController.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\OneDrive\\Documents\\DotNet\\Practice\\GIT\\WebApi_practice\\Controllers\\SecondController.cs",
+              "RelativeDocumentMoniker": "WebApi_practice\\Controllers\\SecondController.cs",
+              "ToolTip": "C:\\Users\\abhis\\OneDrive\\Documents\\DotNet\\Practice\\GIT\\WebApi_practice\\Controllers\\SecondController.cs",
+              "RelativeToolTip": "WebApi_practice\\Controllers\\SecondController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:44:55.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\OneDrive\\Documents\\DotNet\\Practice\\GIT\\WebApi_practice\\DTO\\PersonDTO.cs",
+              "RelativeDocumentMoniker": "WebApi_practice\\DTO\\PersonDTO.cs",
+              "ToolTip": "C:\\Users\\abhis\\OneDrive\\Documents\\DotNet\\Practice\\GIT\\WebApi_practice\\DTO\\PersonDTO.cs",
+              "RelativeToolTip": "WebApi_practice\\DTO\\PersonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:32:42.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\OneDrive\\Documents\\DotNet\\Practice\\GIT\\WebApi_practice\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "WebApi_practice\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\abhis\\OneDrive\\Documents\\DotNet\\Practice\\GIT\\WebApi_practice\\Models\\Person.cs",
+              "RelativeToolTip": "WebApi_practice\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:15:32.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirstController.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\OneDrive\\Documents\\DotNet\\Practice\\GIT\\WebApi_practice\\Controllers\\FirstController.cs",
+              "RelativeDocumentMoniker": "WebApi_practice\\Controllers\\FirstController.cs",
+              "ToolTip": "C:\\Users\\abhis\\OneDrive\\Documents\\DotNet\\Practice\\GIT\\WebApi_practice\\Controllers\\FirstController.cs",
+              "RelativeToolTip": "WebApi_practice\\Controllers\\FirstController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:11:05.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentLayout.json",
+              "DocumentMoniker": "C:\\Users\\abhis\\OneDrive\\Documents\\DotNet\\Practice\\GIT\\.vs\\GIT\\v17\\DocumentLayout.json",
+              "RelativeDocumentMoniker": ".vs\\GIT\\v17\\DocumentLayout.json",
+              "ToolTip": "C:\\Users\\abhis\\OneDrive\\Documents\\DotNet\\Practice\\GIT\\.vs\\GIT\\v17\\DocumentLayout.json",
+              "RelativeToolTip": ".vs\\GIT\\v17\\DocumentLayout.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T06:10:11.663Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
